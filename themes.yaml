@@ -1,0 +1,97 @@
+# Frozen theme list. `trends theme` reads this and never edits it.
+# Edit by hand if needed and bump `version`; issues are re-themed per version.
+version: 2
+repo: supabase/supabase
+created: '2026-11-03'
+model: claude-haiku-5-5
+themes:
+- id: account-access-and-billing
+  name: Dashboard account access, MFA and billing
+  description: Problems signing in to or managing a Supabase dashboard account, including
+    supabase.com login and redirect failures, MFA recovery, org invites and access, ownership
+    transfers, invoices, billing restrictions, and quota-related account blocks. Not the
+    Auth product that users' own apps use.
+  labels: []
+- id: database-availability-and-restarts
+  name: Database availability and restarts
+  description: Production outages, unreachable databases, stuck pause or restore operations,
+    disk exhaustion, and DNS or hostname resolution failures for projects.
+  labels: []
+- id: auth-and-api-keys
+  name: Supabase Auth for apps, tokens and API keys
+  description: The Supabase Auth product that users' own apps use, including tokens and
+    JWTs, sign-in providers, password reset and email (SMTP) for app users, auth hooks,
+    project API keys, and pooler authentication failures. Not signing in to the Supabase
+    dashboard itself.
+  labels:
+  - auth
+- id: security-disclosures
+  name: Security vulnerabilities and disclosures
+  description: Reports of exposed secrets, unauthenticated access paths, injection
+    flaws, and CVE-driven image or dependency bumps.
+  labels: []
+- id: sql-editor-and-table-editor
+  name: SQL Editor and Table Editor
+  description: Studio SQL Editor query execution, auto-limit handling, AI rename features,
+    and Table Editor filtering or display behaviour.
+  labels:
+  - frontend
+- id: storage-and-files
+  name: Storage buckets and file handling
+  description: Storage bucket operations, folder and object naming, downloads, pagination
+    in the Storage UI, and storage quota impacts.
+  labels:
+  - storage
+- id: edge-functions-and-deploys
+  name: Edge Functions and deployments
+  description: Edge Function runtime or HTTP behaviour, GitHub-triggered branch and
+    production deploys, and deployment race conditions.
+  labels:
+  - edge functions
+  - branching
+  - integrations
+- id: api-gateway-and-postgrest
+  name: API gateway, PostgREST and Data API
+  description: Data API and gateway request routing, latency, PostgREST responses,
+    and CORS behaviour on hosted or self-hosted gateways.
+  labels:
+  - api-gw
+  - postgREST
+  - self-hosted
+- id: realtime-and-analytics
+  name: Realtime and logs analytics
+  description: Realtime postgres_changes subscriptions and the Management API analytics
+    or logs endpoints.
+  labels:
+  - realtime
+  - analytics
+- id: database-extensions-and-roles
+  name: Database extensions, roles and queues
+  description: Postgres extensions such as pg_net and pgmq, role and privilege errors,
+    cron job permissions, schema operations, and monitoring exporter load.
+  labels:
+  - postgres
+- id: dashboard-and-studio-ux
+  name: Dashboard and Studio UI
+  description: Studio navigation, command menu, roles display, copy and paste, and
+    other dashboard interface defects not covered by a specific feature theme.
+  labels:
+  - studio
+  - ui library
+- id: docs-and-content-errors
+  name: Documentation and content corrections
+  description: Inaccurate or missing documentation, config key descriptions, example
+    errors, and docs tooling problems.
+  labels:
+  - documentation
+- id: support-requests-and-unclear-reports
+  name: Support requests and unclear reports
+  description: Short or vague reports, personal support requests, and issues lacking
+    enough detail to classify into a product area.
+  labels:
+  - awaiting-details
+  - cannot-reproduce
+- id: other
+  name: Other
+  description: Fits none of the other themes, or is too vague to place.
+  labels: []

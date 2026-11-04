@@ -1,0 +1,13 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+*.db
+*.sqlite
+.pytest_cache/
+.ruff_cache/
+data/
+*.egg-info/
+build/
+dist/
+tests/fixtures/github_live/

@@ -1,0 +1,1881 @@
+[
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20170",
+  "html_url": "https://github.com/supabase/supabase/issues/20170",
+  "number": 20170,
+  "title": "Session not refreshed after token expiry",
+  "user": {
+   "login": "user607",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "auth",
+    "color": "ededed"
+   },
+   {
+    "name": "needs-triage",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 2,
+  "created_at": "2026-11-03T16:42:50Z",
+  "updated_at": "2026-11-09T02:42:50Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nSession not refreshed after token expiry.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 13,
+   "+1": 12,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 1,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20173",
+  "html_url": "https://github.com/supabase/supabase/issues/20173",
+  "number": 20173,
+  "title": "Signed URL returns 400 after bucket rename",
+  "user": {
+   "login": "user420",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "storage",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 9,
+  "created_at": "2026-11-03T08:00:33Z",
+  "updated_at": "2026-11-11T15:00:33Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nSigned URL returns 400 after bucket rename.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 1,
+   "+1": 1,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 0,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20174",
+  "html_url": "https://github.com/supabase/supabase/issues/20174",
+  "number": 20174,
+  "title": "Deno import map not respected on deploy",
+  "user": {
+   "login": "user979",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "edge-functions",
+    "color": "ededed"
+   },
+   {
+    "name": "question",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 1,
+  "created_at": "2026-11-02T18:08:26Z",
+  "updated_at": "2026-11-07T16:08:26Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nDeno import map not respected on deploy.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 2,
+   "+1": 1,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 1,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20172",
+  "html_url": "https://github.com/supabase/supabase/issues/20172",
+  "number": 20172,
+  "title": "Storage RLS policy blocks public bucket reads",
+  "user": {
+   "login": "user151",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "storage",
+    "color": "ededed"
+   },
+   {
+    "name": "needs-triage",
+    "color": "ededed"
+   },
+   {
+    "name": "question",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 1,
+  "created_at": "2026-11-02T14:57:29Z",
+  "updated_at": "2026-11-02T23:57:29Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nStorage RLS policy blocks public bucket reads.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 15,
+   "+1": 12,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 3,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20171",
+  "html_url": "https://github.com/supabase/supabase/issues/20171",
+  "number": 20171,
+  "title": "Presence state out of sync after reconnect",
+  "user": {
+   "login": "user611",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "realtime",
+    "color": "ededed"
+   },
+   {
+    "name": "bug",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 4,
+  "created_at": "2026-11-02T04:50:45Z",
+  "updated_at": "2026-11-05T00:50:45Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nPresence state out of sync after reconnect.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 12,
+   "+1": 12,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 0,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20155",
+  "html_url": "https://github.com/supabase/supabase/issues/20155",
+  "number": 20155,
+  "title": "Upload fails with 413 for files over 50MB",
+  "user": {
+   "login": "user131",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "storage",
+    "color": "ededed"
+   },
+   {
+    "name": "question",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 9,
+  "created_at": "2026-11-01T23:27:06Z",
+  "updated_at": "2026-11-08T19:27:06Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nUpload fails with 413 for files over 50MB.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 6,
+   "+1": 5,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 1,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20154",
+  "html_url": "https://github.com/supabase/supabase/issues/20154",
+  "number": 20154,
+  "title": "Image transformation returns blank image",
+  "user": {
+   "login": "user538",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "storage",
+    "color": "ededed"
+   },
+   {
+    "name": "needs-triage",
+    "color": "ededed"
+   },
+   {
+    "name": "question",
+    "color": "ededed"
+   }
+  ],
+  "state": "closed",
+  "comments": 4,
+  "created_at": "2026-11-01T22:41:16Z",
+  "updated_at": "2026-11-10T03:41:16Z",
+  "closed_at": "2026-11-03T22:41:16Z",
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nImage transformation returns blank image.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 4,
+   "+1": 1,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 3,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20166",
+  "html_url": "https://github.com/supabase/supabase/issues/20166",
+  "number": 20166,
+  "title": "Migration with enum change fails on remote",
+  "user": {
+   "login": "user782",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "database",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 4,
+  "created_at": "2026-11-01T12:19:21Z",
+  "updated_at": "2026-11-05T10:19:21Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nMigration with enum change fails on remote.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 6,
+   "+1": 5,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 1,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20167",
+  "html_url": "https://github.com/supabase/supabase/issues/20167",
+  "number": 20167,
+  "title": "fix: migration with enum change fails on remote",
+  "user": {
+   "login": "user371",
+   "type": "User"
+  },
+  "labels": [],
+  "state": "closed",
+  "comments": 9,
+  "created_at": "2026-11-01T12:19:21Z",
+  "updated_at": "2026-11-04T14:19:21Z",
+  "closed_at": "2026-11-03T12:19:21Z",
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nfix: migration with enum change fails on remote.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 0,
+   "+1": 0,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 0,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  },
+  "pull_request": {
+   "url": "https://api.github.com/repos/supabase/supabase/pulls/20167"
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20157",
+  "html_url": "https://github.com/supabase/supabase/issues/20157",
+  "number": 20157,
+  "title": "Image transformation returns blank image",
+  "user": {
+   "login": "user128",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "storage",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 2,
+  "created_at": "2026-11-01T07:08:23Z",
+  "updated_at": "2026-11-07T21:08:23Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nImage transformation returns blank image.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 3,
+   "+1": 2,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 1,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20158",
+  "html_url": "https://github.com/supabase/supabase/issues/20158",
+  "number": 20158,
+  "title": "Signed URL returns 400 after bucket rename",
+  "user": {
+   "login": "user862",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "storage",
+    "color": "ededed"
+   },
+   {
+    "name": "needs-triage",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 9,
+  "created_at": "2026-11-01T02:23:06Z",
+  "updated_at": "2026-11-01T13:23:06Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nSigned URL returns 400 after bucket rename.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 3,
+   "+1": 2,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 1,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20160",
+  "html_url": "https://github.com/supabase/supabase/issues/20160",
+  "number": 20160,
+  "title": "Edge function logs missing in dashboard",
+  "user": {
+   "login": "user464",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "edge-functions",
+    "color": "ededed"
+   },
+   {
+    "name": "enhancement",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 0,
+  "created_at": "2026-11-01T01:03:50Z",
+  "updated_at": "2026-11-08T10:03:50Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nEdge function logs missing in dashboard.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 2,
+   "+1": 1,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 1,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20144",
+  "html_url": "https://github.com/supabase/supabase/issues/20144",
+  "number": 20144,
+  "title": "Session not refreshed after token expiry",
+  "user": {
+   "login": "user886",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "auth",
+    "color": "ededed"
+   }
+  ],
+  "state": "closed",
+  "comments": 2,
+  "created_at": "2026-10-31T17:53:15Z",
+  "updated_at": "2026-11-03T15:53:15Z",
+  "closed_at": "2026-11-02T17:53:15Z",
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nSession not refreshed after token expiry.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 0,
+   "+1": 0,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 0,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20152",
+  "html_url": "https://github.com/supabase/supabase/issues/20152",
+  "number": 20152,
+  "title": "Signed URL returns 400 after bucket rename",
+  "user": {
+   "login": "user726",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "storage",
+    "color": "ededed"
+   },
+   {
+    "name": "bug",
+    "color": "ededed"
+   },
+   {
+    "name": "question",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 0,
+  "created_at": "2026-10-31T11:40:01Z",
+  "updated_at": "2026-11-06T08:40:01Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nSigned URL returns 400 after bucket rename.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 6,
+   "+1": 5,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 1,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20147",
+  "html_url": "https://github.com/supabase/supabase/issues/20147",
+  "number": 20147,
+  "title": "Presence state out of sync after reconnect",
+  "user": {
+   "login": "user654",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "realtime",
+    "color": "ededed"
+   },
+   {
+    "name": "bug",
+    "color": "ededed"
+   },
+   {
+    "name": "question",
+    "color": "ededed"
+   }
+  ],
+  "state": "closed",
+  "comments": 0,
+  "created_at": "2026-10-31T09:17:51Z",
+  "updated_at": "2026-11-01T05:17:51Z",
+  "closed_at": "2026-11-02T09:17:51Z",
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nPresence state out of sync after reconnect.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 2,
+   "+1": 1,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 1,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20146",
+  "html_url": "https://github.com/supabase/supabase/issues/20146",
+  "number": 20146,
+  "title": "Magic link redirects to localhost instead of site URL",
+  "user": {
+   "login": "user313",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "auth",
+    "color": "ededed"
+   },
+   {
+    "name": "needs-triage",
+    "color": "ededed"
+   },
+   {
+    "name": "question",
+    "color": "ededed"
+   }
+  ],
+  "state": "closed",
+  "comments": 4,
+  "created_at": "2026-10-31T03:38:40Z",
+  "updated_at": "2026-11-06T14:38:40Z",
+  "closed_at": "2026-11-02T03:38:40Z",
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nMagic link redirects to localhost instead of site URL.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 1,
+   "+1": 0,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 1,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20163",
+  "html_url": "https://github.com/supabase/supabase/issues/20163",
+  "number": 20163,
+  "title": "pg_cron job runs twice after restart",
+  "user": {
+   "login": "user510",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "database",
+    "color": "ededed"
+   },
+   {
+    "name": "question",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 9,
+  "created_at": "2026-10-31T01:47:26Z",
+  "updated_at": "2026-11-05T01:47:26Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\npg_cron job runs twice after restart.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 0,
+   "+1": 0,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 0,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20161",
+  "html_url": "https://github.com/supabase/supabase/issues/20161",
+  "number": 20161,
+  "title": "supabase link errors with invalid project ref",
+  "user": {
+   "login": "user751",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "cli",
+    "color": "ededed"
+   },
+   {
+    "name": "needs-triage",
+    "color": "ededed"
+   },
+   {
+    "name": "enhancement",
+    "color": "ededed"
+   }
+  ],
+  "state": "closed",
+  "comments": 2,
+  "created_at": "2026-10-31T01:03:30Z",
+  "updated_at": "2026-11-04T08:03:30Z",
+  "closed_at": "2026-11-02T01:03:30Z",
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nsupabase link errors with invalid project ref.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 6,
+   "+1": 5,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 1,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20168",
+  "html_url": "https://github.com/supabase/supabase/issues/20168",
+  "number": 20168,
+  "title": "Dashboard shows wrong usage numbers",
+  "user": {
+   "login": "user382",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "studio",
+    "color": "ededed"
+   },
+   {
+    "name": "question",
+    "color": "ededed"
+   },
+   {
+    "name": "enhancement",
+    "color": "ededed"
+   }
+  ],
+  "state": "closed",
+  "comments": 2,
+  "created_at": "2026-10-30T16:31:56Z",
+  "updated_at": "2026-11-05T15:31:56Z",
+  "closed_at": "2026-11-01T16:31:56Z",
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nDashboard shows wrong usage numbers.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 3,
+   "+1": 0,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 3,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20162",
+  "html_url": "https://github.com/supabase/supabase/issues/20162",
+  "number": 20162,
+  "title": "supabase start fails on Apple silicon",
+  "user": {
+   "login": "user99",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "cli",
+    "color": "ededed"
+   },
+   {
+    "name": "needs-triage",
+    "color": "ededed"
+   }
+  ],
+  "state": "closed",
+  "comments": 0,
+  "created_at": "2026-10-30T11:55:39Z",
+  "updated_at": "2026-11-02T14:55:39Z",
+  "closed_at": "2026-11-01T11:55:39Z",
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nsupabase start fails on Apple silicon.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 0,
+   "+1": 0,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 0,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20145",
+  "html_url": "https://github.com/supabase/supabase/issues/20145",
+  "number": 20145,
+  "title": "Phone OTP not delivered for +44 numbers",
+  "user": {
+   "login": "user376",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "auth",
+    "color": "ededed"
+   },
+   {
+    "name": "enhancement",
+    "color": "ededed"
+   },
+   {
+    "name": "needs-triage",
+    "color": "ededed"
+   }
+  ],
+  "state": "closed",
+  "comments": 9,
+  "created_at": "2026-10-30T11:11:36Z",
+  "updated_at": "2026-11-02T08:11:36Z",
+  "closed_at": "2026-11-01T11:11:36Z",
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nPhone OTP not delivered for +44 numbers.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 8,
+   "+1": 5,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 3,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20150",
+  "html_url": "https://github.com/supabase/supabase/issues/20150",
+  "number": 20150,
+  "title": "Resumable upload stalls at 99%",
+  "user": {
+   "login": "user511",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "storage",
+    "color": "ededed"
+   },
+   {
+    "name": "question",
+    "color": "ededed"
+   }
+  ],
+  "state": "closed",
+  "comments": 9,
+  "created_at": "2026-10-30T10:52:54Z",
+  "updated_at": "2026-11-03T14:52:54Z",
+  "closed_at": "2026-11-01T10:52:54Z",
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nResumable upload stalls at 99%.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 5,
+   "+1": 5,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 0,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20149",
+  "html_url": "https://github.com/supabase/supabase/issues/20149",
+  "number": 20149,
+  "title": "Image transformation returns blank image",
+  "user": {
+   "login": "user454",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "storage",
+    "color": "ededed"
+   },
+   {
+    "name": "bug",
+    "color": "ededed"
+   },
+   {
+    "name": "question",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 0,
+  "created_at": "2026-10-30T10:42:03Z",
+  "updated_at": "2026-11-05T13:42:03Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nImage transformation returns blank image.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 1,
+   "+1": 0,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 1,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20148",
+  "html_url": "https://github.com/supabase/supabase/issues/20148",
+  "number": 20148,
+  "title": "Storage RLS policy blocks public bucket reads",
+  "user": {
+   "login": "user35",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "storage",
+    "color": "ededed"
+   },
+   {
+    "name": "bug",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 1,
+  "created_at": "2026-10-30T09:49:19Z",
+  "updated_at": "2026-10-31T03:49:19Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nStorage RLS policy blocks public bucket reads.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 15,
+   "+1": 12,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 3,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20164",
+  "html_url": "https://github.com/supabase/supabase/issues/20164",
+  "number": 20164,
+  "title": "Generated types miss view columns",
+  "user": {
+   "login": "user220",
+   "type": "User"
+  },
+  "labels": [],
+  "state": "closed",
+  "comments": 9,
+  "created_at": "2026-10-29T17:52:08Z",
+  "updated_at": "2026-11-02T12:52:08Z",
+  "closed_at": "2026-10-31T17:52:08Z",
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nGenerated types miss view columns.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 1,
+   "+1": 1,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 0,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20165",
+  "html_url": "https://github.com/supabase/supabase/issues/20165",
+  "number": 20165,
+  "title": "fix: generated types miss view columns",
+  "user": {
+   "login": "user611",
+   "type": "User"
+  },
+  "labels": [],
+  "state": "closed",
+  "comments": 4,
+  "created_at": "2026-10-29T17:52:08Z",
+  "updated_at": "2026-11-01T19:52:08Z",
+  "closed_at": "2026-10-31T17:52:08Z",
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nfix: generated types miss view columns.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 3,
+   "+1": 0,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 3,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  },
+  "pull_request": {
+   "url": "https://api.github.com/repos/supabase/supabase/pulls/20165"
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20153",
+  "html_url": "https://github.com/supabase/supabase/issues/20153",
+  "number": 20153,
+  "title": "Signed URL returns 400 after bucket rename",
+  "user": {
+   "login": "user242",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "storage",
+    "color": "ededed"
+   },
+   {
+    "name": "question",
+    "color": "ededed"
+   }
+  ],
+  "state": "closed",
+  "comments": 4,
+  "created_at": "2026-10-29T15:22:07Z",
+  "updated_at": "2026-10-29T22:22:07Z",
+  "closed_at": "2026-10-31T15:22:07Z",
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nSigned URL returns 400 after bucket rename.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 0,
+   "+1": 0,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 0,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20169",
+  "html_url": "https://github.com/supabase/supabase/issues/20169",
+  "number": 20169,
+  "title": "Typo in storage CDN docs",
+  "user": {
+   "login": "user531",
+   "type": "User"
+  },
+  "labels": [],
+  "state": "open",
+  "comments": 4,
+  "created_at": "2026-10-28T09:58:47Z",
+  "updated_at": "2026-10-30T00:58:47Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nTypo in storage CDN docs.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 15,
+   "+1": 12,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 3,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20156",
+  "html_url": "https://github.com/supabase/supabase/issues/20156",
+  "number": 20156,
+  "title": "Resumable upload stalls at 99%",
+  "user": {
+   "login": "user165",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "storage",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 2,
+  "created_at": "2026-10-27T13:35:00Z",
+  "updated_at": "2026-11-04T03:35:00Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nResumable upload stalls at 99%.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 0,
+   "+1": 0,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 0,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20151",
+  "html_url": "https://github.com/supabase/supabase/issues/20151",
+  "number": 20151,
+  "title": "Image transformation returns blank image",
+  "user": {
+   "login": "user204",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "storage",
+    "color": "ededed"
+   },
+   {
+    "name": "enhancement",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 0,
+  "created_at": "2026-10-27T10:18:01Z",
+  "updated_at": "2026-10-28T21:18:01Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nImage transformation returns blank image.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 8,
+   "+1": 5,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 3,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20159",
+  "html_url": "https://github.com/supabase/supabase/issues/20159",
+  "number": 20159,
+  "title": "Upload fails with 413 for files over 50MB",
+  "user": {
+   "login": "user785",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "storage",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 9,
+  "created_at": "2026-10-26T08:15:51Z",
+  "updated_at": "2026-10-30T19:15:51Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nUpload fails with 413 for files over 50MB.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 0,
+   "+1": 0,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 0,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20141",
+  "html_url": "https://github.com/supabase/supabase/issues/20141",
+  "number": 20141,
+  "title": "Migration with enum change fails on remote",
+  "user": {
+   "login": "user365",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "database",
+    "color": "ededed"
+   },
+   {
+    "name": "enhancement",
+    "color": "ededed"
+   },
+   {
+    "name": "bug",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 0,
+  "created_at": "2026-10-25T09:13:33Z",
+  "updated_at": "2026-10-29T02:13:33Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nMigration with enum change fails on remote.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 0,
+   "+1": 0,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 0,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20135",
+  "html_url": "https://github.com/supabase/supabase/issues/20135",
+  "number": 20135,
+  "title": "Signed URL returns 400 after bucket rename",
+  "user": {
+   "login": "user54",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "storage",
+    "color": "ededed"
+   },
+   {
+    "name": "bug",
+    "color": "ededed"
+   },
+   {
+    "name": "enhancement",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 4,
+  "created_at": "2026-10-25T05:31:29Z",
+  "updated_at": "2026-10-30T14:31:29Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nSigned URL returns 400 after bucket rename.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 3,
+   "+1": 0,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 3,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20130",
+  "html_url": "https://github.com/supabase/supabase/issues/20130",
+  "number": 20130,
+  "title": "signInWithOAuth fails with PKCE flow on Safari",
+  "user": {
+   "login": "user519",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "auth",
+    "color": "ededed"
+   },
+   {
+    "name": "needs-triage",
+    "color": "ededed"
+   }
+  ],
+  "state": "closed",
+  "comments": 9,
+  "created_at": "2026-10-24T21:38:12Z",
+  "updated_at": "2026-11-01T19:38:12Z",
+  "closed_at": "2026-10-26T21:38:12Z",
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nsignInWithOAuth fails with PKCE flow on Safari.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 12,
+   "+1": 12,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 0,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20138",
+  "html_url": "https://github.com/supabase/supabase/issues/20138",
+  "number": 20138,
+  "title": "CORS preflight fails for edge function",
+  "user": {
+   "login": "user561",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "edge-functions",
+    "color": "ededed"
+   }
+  ],
+  "state": "closed",
+  "comments": 9,
+  "created_at": "2026-10-24T16:38:17Z",
+  "updated_at": "2026-10-30T08:38:17Z",
+  "closed_at": "2026-10-26T16:38:17Z",
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nCORS preflight fails for edge function.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 0,
+   "+1": 0,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 0,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20132",
+  "html_url": "https://github.com/supabase/supabase/issues/20132",
+  "number": 20132,
+  "title": "Presence state out of sync after reconnect",
+  "user": {
+   "login": "user925",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "realtime",
+    "color": "ededed"
+   },
+   {
+    "name": "needs-triage",
+    "color": "ededed"
+   },
+   {
+    "name": "question",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 1,
+  "created_at": "2026-10-24T09:22:56Z",
+  "updated_at": "2026-10-28T08:22:56Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nPresence state out of sync after reconnect.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 15,
+   "+1": 12,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 3,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20133",
+  "html_url": "https://github.com/supabase/supabase/issues/20133",
+  "number": 20133,
+  "title": "Resumable upload stalls at 99%",
+  "user": {
+   "login": "user820",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "storage",
+    "color": "ededed"
+   },
+   {
+    "name": "enhancement",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 9,
+  "created_at": "2026-10-24T08:19:59Z",
+  "updated_at": "2026-10-25T20:19:59Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nResumable upload stalls at 99%.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 0,
+   "+1": 0,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 0,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20142",
+  "html_url": "https://github.com/supabase/supabase/issues/20142",
+  "number": 20142,
+  "title": "Table editor freezes on large JSON column",
+  "user": {
+   "login": "user850",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "studio",
+    "color": "ededed"
+   }
+  ],
+  "state": "closed",
+  "comments": 4,
+  "created_at": "2026-10-23T00:51:11Z",
+  "updated_at": "2026-10-30T11:51:11Z",
+  "closed_at": "2026-10-25T00:51:11Z",
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nTable editor freezes on large JSON column.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 5,
+   "+1": 5,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 0,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20139",
+  "html_url": "https://github.com/supabase/supabase/issues/20139",
+  "number": 20139,
+  "title": "Local studio cannot connect after upgrade",
+  "user": {
+   "login": "user64",
+   "type": "User"
+  },
+  "labels": [],
+  "state": "open",
+  "comments": 0,
+  "created_at": "2026-10-21T21:13:03Z",
+  "updated_at": "2026-10-27T05:13:03Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nLocal studio cannot connect after upgrade.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 15,
+   "+1": 12,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 3,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20143",
+  "html_url": "https://github.com/supabase/supabase/issues/20143",
+  "number": 20143,
+  "title": "Docs: RLS example for multi-tenant is wrong",
+  "user": {
+   "login": "user955",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "documentation",
+    "color": "ededed"
+   },
+   {
+    "name": "bug",
+    "color": "ededed"
+   },
+   {
+    "name": "needs-triage",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 2,
+  "created_at": "2026-10-20T15:16:43Z",
+  "updated_at": "2026-10-26T03:16:43Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nDocs: RLS example for multi-tenant is wrong.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 1,
+   "+1": 0,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 1,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20136",
+  "html_url": "https://github.com/supabase/supabase/issues/20136",
+  "number": 20136,
+  "title": "Edge function logs missing in dashboard",
+  "user": {
+   "login": "user810",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "edge-functions",
+    "color": "ededed"
+   },
+   {
+    "name": "bug",
+    "color": "ededed"
+   }
+  ],
+  "state": "closed",
+  "comments": 1,
+  "created_at": "2026-10-19T23:46:09Z",
+  "updated_at": "2026-10-21T11:46:09Z",
+  "closed_at": "2026-10-21T23:46:09Z",
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nEdge function logs missing in dashboard.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 6,
+   "+1": 5,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 1,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20137",
+  "html_url": "https://github.com/supabase/supabase/issues/20137",
+  "number": 20137,
+  "title": "fix: edge function logs missing in dashboard",
+  "user": {
+   "login": "user712",
+   "type": "User"
+  },
+  "labels": [],
+  "state": "closed",
+  "comments": 1,
+  "created_at": "2026-10-19T23:46:09Z",
+  "updated_at": "2026-10-28T02:46:09Z",
+  "closed_at": "2026-10-21T23:46:09Z",
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nfix: edge function logs missing in dashboard.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 15,
+   "+1": 12,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 3,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  },
+  "pull_request": {
+   "url": "https://api.github.com/repos/supabase/supabase/pulls/20137"
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20134",
+  "html_url": "https://github.com/supabase/supabase/issues/20134",
+  "number": 20134,
+  "title": "Resumable upload stalls at 99%",
+  "user": {
+   "login": "user85",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "storage",
+    "color": "ededed"
+   },
+   {
+    "name": "bug",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 1,
+  "created_at": "2026-10-19T15:11:54Z",
+  "updated_at": "2026-10-22T13:11:54Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nResumable upload stalls at 99%.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 1,
+   "+1": 0,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 1,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20131",
+  "html_url": "https://github.com/supabase/supabase/issues/20131",
+  "number": 20131,
+  "title": "Session not refreshed after token expiry",
+  "user": {
+   "login": "user738",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "auth",
+    "color": "ededed"
+   },
+   {
+    "name": "enhancement",
+    "color": "ededed"
+   }
+  ],
+  "state": "closed",
+  "comments": 4,
+  "created_at": "2026-10-19T10:59:41Z",
+  "updated_at": "2026-10-19T22:59:41Z",
+  "closed_at": "2026-10-21T10:59:41Z",
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nSession not refreshed after token expiry.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 5,
+   "+1": 5,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 0,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20140",
+  "html_url": "https://github.com/supabase/supabase/issues/20140",
+  "number": 20140,
+  "title": "supabase db reset hangs on seed file",
+  "user": {
+   "login": "user191",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "cli",
+    "color": "ededed"
+   },
+   {
+    "name": "question",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 0,
+  "created_at": "2026-10-19T04:47:13Z",
+  "updated_at": "2026-10-24T19:47:13Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nsupabase db reset hangs on seed file.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 3,
+   "+1": 0,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 3,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20119",
+  "html_url": "https://github.com/supabase/supabase/issues/20119",
+  "number": 20119,
+  "title": "Resumable upload stalls at 99%",
+  "user": {
+   "login": "user851",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "storage",
+    "color": "ededed"
+   },
+   {
+    "name": "question",
+    "color": "ededed"
+   },
+   {
+    "name": "bug",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 2,
+  "created_at": "2026-10-18T23:00:53Z",
+  "updated_at": "2026-10-19T22:00:53Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nResumable upload stalls at 99%.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 3,
+   "+1": 0,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 3,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20125",
+  "html_url": "https://github.com/supabase/supabase/issues/20125",
+  "number": 20125,
+  "title": "Migration with enum change fails on remote",
+  "user": {
+   "login": "user105",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "database",
+    "color": "ededed"
+   },
+   {
+    "name": "needs-triage",
+    "color": "ededed"
+   },
+   {
+    "name": "enhancement",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 2,
+  "created_at": "2026-10-18T17:27:22Z",
+  "updated_at": "2026-10-26T08:27:22Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nMigration with enum change fails on remote.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 3,
+   "+1": 0,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 3,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20121",
+  "html_url": "https://github.com/supabase/supabase/issues/20121",
+  "number": 20121,
+  "title": "Deno import map not respected on deploy",
+  "user": {
+   "login": "user241",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "edge-functions",
+    "color": "ededed"
+   },
+   {
+    "name": "question",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 0,
+  "created_at": "2026-10-18T10:32:59Z",
+  "updated_at": "2026-10-20T00:32:59Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nDeno import map not respected on deploy.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 12,
+   "+1": 12,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 0,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20115",
+  "html_url": "https://github.com/supabase/supabase/issues/20115",
+  "number": 20115,
+  "title": "Presence state out of sync after reconnect",
+  "user": {
+   "login": "user539",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "realtime",
+    "color": "ededed"
+   },
+   {
+    "name": "bug",
+    "color": "ededed"
+   }
+  ],
+  "state": "closed",
+  "comments": 2,
+  "created_at": "2026-10-17T00:38:23Z",
+  "updated_at": "2026-10-17T12:38:23Z",
+  "closed_at": "2026-10-19T00:38:23Z",
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nPresence state out of sync after reconnect.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 8,
+   "+1": 5,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 3,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20112",
+  "html_url": "https://github.com/supabase/supabase/issues/20112",
+  "number": 20112,
+  "title": "Session not refreshed after token expiry",
+  "user": {
+   "login": "user71",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "auth",
+    "color": "ededed"
+   }
+  ],
+  "state": "closed",
+  "comments": 1,
+  "created_at": "2026-10-16T02:58:51Z",
+  "updated_at": "2026-10-24T00:58:51Z",
+  "closed_at": "2026-10-18T02:58:51Z",
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nSession not refreshed after token expiry.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 8,
+   "+1": 5,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 3,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ }
+]

@@ -1,0 +1,1856 @@
+[
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20123",
+  "html_url": "https://github.com/supabase/supabase/issues/20123",
+  "number": 20123,
+  "title": "Connection pooler timeout under 100 clients",
+  "user": {
+   "login": "user605",
+   "type": "User"
+  },
+  "labels": [],
+  "state": "open",
+  "comments": 0,
+  "created_at": "2026-10-15T22:08:28Z",
+  "updated_at": "2026-10-19T17:08:28Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nConnection pooler timeout under 100 clients.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 1,
+   "+1": 0,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 1,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20124",
+  "html_url": "https://github.com/supabase/supabase/issues/20124",
+  "number": 20124,
+  "title": "Generated types miss view columns",
+  "user": {
+   "login": "user629",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "database",
+    "color": "ededed"
+   },
+   {
+    "name": "bug",
+    "color": "ededed"
+   },
+   {
+    "name": "enhancement",
+    "color": "ededed"
+   }
+  ],
+  "state": "closed",
+  "comments": 9,
+  "created_at": "2026-10-15T18:24:46Z",
+  "updated_at": "2026-10-21T04:24:46Z",
+  "closed_at": "2026-10-17T18:24:46Z",
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nGenerated types miss view columns.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 5,
+   "+1": 5,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 0,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20118",
+  "html_url": "https://github.com/supabase/supabase/issues/20118",
+  "number": 20118,
+  "title": "Storage RLS policy blocks public bucket reads",
+  "user": {
+   "login": "user470",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "storage",
+    "color": "ededed"
+   },
+   {
+    "name": "bug",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 0,
+  "created_at": "2026-10-14T19:01:28Z",
+  "updated_at": "2026-10-18T04:01:28Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nStorage RLS policy blocks public bucket reads.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 1,
+   "+1": 1,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 0,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20122",
+  "html_url": "https://github.com/supabase/supabase/issues/20122",
+  "number": 20122,
+  "title": "supabase start fails on Apple silicon",
+  "user": {
+   "login": "user697",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "cli",
+    "color": "ededed"
+   },
+   {
+    "name": "enhancement",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 9,
+  "created_at": "2026-10-13T20:31:35Z",
+  "updated_at": "2026-10-20T17:31:35Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nsupabase start fails on Apple silicon.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 5,
+   "+1": 2,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 3,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20128",
+  "html_url": "https://github.com/supabase/supabase/issues/20128",
+  "number": 20128,
+  "title": "Docs: missing guide for Next.js app router auth",
+  "user": {
+   "login": "user572",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "documentation",
+    "color": "ededed"
+   },
+   {
+    "name": "enhancement",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 4,
+  "created_at": "2026-10-13T17:11:38Z",
+  "updated_at": "2026-10-20T14:11:38Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nDocs: missing guide for Next.js app router auth.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 1,
+   "+1": 0,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 1,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20129",
+  "html_url": "https://github.com/supabase/supabase/issues/20129",
+  "number": 20129,
+  "title": "Typo in storage CDN docs",
+  "user": {
+   "login": "user371",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "documentation",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 2,
+  "created_at": "2026-10-13T13:13:21Z",
+  "updated_at": "2026-10-15T12:13:21Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nTypo in storage CDN docs.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 0,
+   "+1": 0,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 0,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20120",
+  "html_url": "https://github.com/supabase/supabase/issues/20120",
+  "number": 20120,
+  "title": "Signed URL returns 400 after bucket rename",
+  "user": {
+   "login": "user226",
+   "type": "User"
+  },
+  "labels": [],
+  "state": "open",
+  "comments": 2,
+  "created_at": "2026-10-13T06:50:05Z",
+  "updated_at": "2026-10-15T02:50:05Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nSigned URL returns 400 after bucket rename.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 6,
+   "+1": 5,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 1,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20114",
+  "html_url": "https://github.com/supabase/supabase/issues/20114",
+  "number": 20114,
+  "title": "Realtime channel disconnects every 30s",
+  "user": {
+   "login": "user453",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "realtime",
+    "color": "ededed"
+   },
+   {
+    "name": "needs-triage",
+    "color": "ededed"
+   }
+  ],
+  "state": "closed",
+  "comments": 4,
+  "created_at": "2026-10-13T00:44:43Z",
+  "updated_at": "2026-10-18T05:44:43Z",
+  "closed_at": "2026-10-15T00:44:43Z",
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nRealtime channel disconnects every 30s.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 1,
+   "+1": 0,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 1,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20116",
+  "html_url": "https://github.com/supabase/supabase/issues/20116",
+  "number": 20116,
+  "title": "Realtime channel disconnects every 30s",
+  "user": {
+   "login": "user296",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "realtime",
+    "color": "ededed"
+   },
+   {
+    "name": "question",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 2,
+  "created_at": "2026-10-12T15:57:23Z",
+  "updated_at": "2026-10-13T22:57:23Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nRealtime channel disconnects every 30s.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 13,
+   "+1": 12,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 1,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20117",
+  "html_url": "https://github.com/supabase/supabase/issues/20117",
+  "number": 20117,
+  "title": "fix: realtime channel disconnects every 30s",
+  "user": {
+   "login": "user179",
+   "type": "User"
+  },
+  "labels": [],
+  "state": "closed",
+  "comments": 1,
+  "created_at": "2026-10-12T15:57:23Z",
+  "updated_at": "2026-10-16T17:57:23Z",
+  "closed_at": "2026-10-14T15:57:23Z",
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nfix: realtime channel disconnects every 30s.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 8,
+   "+1": 5,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 3,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  },
+  "pull_request": {
+   "url": "https://api.github.com/repos/supabase/supabase/pulls/20117"
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20127",
+  "html_url": "https://github.com/supabase/supabase/issues/20127",
+  "number": 20127,
+  "title": "Typo in storage CDN docs",
+  "user": {
+   "login": "user258",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "documentation",
+    "color": "ededed"
+   },
+   {
+    "name": "bug",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 9,
+  "created_at": "2026-10-12T15:15:09Z",
+  "updated_at": "2026-10-14T06:15:09Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nTypo in storage CDN docs.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 2,
+   "+1": 1,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 1,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20126",
+  "html_url": "https://github.com/supabase/supabase/issues/20126",
+  "number": 20126,
+  "title": "Table editor freezes on large JSON column",
+  "user": {
+   "login": "user396",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "studio",
+    "color": "ededed"
+   },
+   {
+    "name": "enhancement",
+    "color": "ededed"
+   },
+   {
+    "name": "question",
+    "color": "ededed"
+   }
+  ],
+  "state": "closed",
+  "comments": 4,
+  "created_at": "2026-10-12T11:24:03Z",
+  "updated_at": "2026-10-20T18:24:03Z",
+  "closed_at": "2026-10-14T11:24:03Z",
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nTable editor freezes on large JSON column.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 1,
+   "+1": 0,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 1,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20113",
+  "html_url": "https://github.com/supabase/supabase/issues/20113",
+  "number": 20113,
+  "title": "Magic link redirects to localhost instead of site URL",
+  "user": {
+   "login": "user738",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "auth",
+    "color": "ededed"
+   },
+   {
+    "name": "enhancement",
+    "color": "ededed"
+   }
+  ],
+  "state": "closed",
+  "comments": 2,
+  "created_at": "2026-10-12T08:55:46Z",
+  "updated_at": "2026-10-20T15:55:46Z",
+  "closed_at": "2026-10-14T08:55:46Z",
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nMagic link redirects to localhost instead of site URL.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 1,
+   "+1": 0,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 1,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20109",
+  "html_url": "https://github.com/supabase/supabase/issues/20109",
+  "number": 20109,
+  "title": "Dashboard shows wrong usage numbers",
+  "user": {
+   "login": "user888",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "studio",
+    "color": "ededed"
+   },
+   {
+    "name": "bug",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 0,
+  "created_at": "2026-10-11T19:34:26Z",
+  "updated_at": "2026-10-14T21:34:26Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nDashboard shows wrong usage numbers.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 15,
+   "+1": 12,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 3,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20106",
+  "html_url": "https://github.com/supabase/supabase/issues/20106",
+  "number": 20106,
+  "title": "Connection pooler timeout under 100 clients",
+  "user": {
+   "login": "user873",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "database",
+    "color": "ededed"
+   },
+   {
+    "name": "question",
+    "color": "ededed"
+   },
+   {
+    "name": "needs-triage",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 9,
+  "created_at": "2026-10-11T15:43:13Z",
+  "updated_at": "2026-10-19T08:43:13Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nConnection pooler timeout under 100 clients.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 12,
+   "+1": 12,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 0,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20104",
+  "html_url": "https://github.com/supabase/supabase/issues/20104",
+  "number": 20104,
+  "title": "supabase start fails on Apple silicon",
+  "user": {
+   "login": "user469",
+   "type": "User"
+  },
+  "labels": [],
+  "state": "open",
+  "comments": 0,
+  "created_at": "2026-10-11T05:29:29Z",
+  "updated_at": "2026-10-11T21:29:29Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nsupabase start fails on Apple silicon.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 13,
+   "+1": 12,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 1,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20099",
+  "html_url": "https://github.com/supabase/supabase/issues/20099",
+  "number": 20099,
+  "title": "Auth hook returns 500 when custom claims added",
+  "user": {
+   "login": "user875",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "auth",
+    "color": "ededed"
+   },
+   {
+    "name": "question",
+    "color": "ededed"
+   },
+   {
+    "name": "bug",
+    "color": "ededed"
+   }
+  ],
+  "state": "closed",
+  "comments": 2,
+  "created_at": "2026-10-10T22:31:57Z",
+  "updated_at": "2026-10-12T00:31:57Z",
+  "closed_at": "2026-10-12T22:31:57Z",
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nAuth hook returns 500 when custom claims added.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 1,
+   "+1": 1,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 0,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20107",
+  "html_url": "https://github.com/supabase/supabase/issues/20107",
+  "number": 20107,
+  "title": "Generated types miss view columns",
+  "user": {
+   "login": "user320",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "database",
+    "color": "ededed"
+   },
+   {
+    "name": "enhancement",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 4,
+  "created_at": "2026-10-10T05:16:01Z",
+  "updated_at": "2026-10-13T14:16:01Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nGenerated types miss view columns.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 1,
+   "+1": 1,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 0,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20105",
+  "html_url": "https://github.com/supabase/supabase/issues/20105",
+  "number": 20105,
+  "title": "supabase link errors with invalid project ref",
+  "user": {
+   "login": "user329",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "cli",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 9,
+  "created_at": "2026-10-09T20:58:46Z",
+  "updated_at": "2026-10-11T10:58:46Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nsupabase link errors with invalid project ref.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 0,
+   "+1": 0,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 0,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20100",
+  "html_url": "https://github.com/supabase/supabase/issues/20100",
+  "number": 20100,
+  "title": "Auth hook returns 500 when custom claims added",
+  "user": {
+   "login": "user93",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "auth",
+    "color": "ededed"
+   },
+   {
+    "name": "bug",
+    "color": "ededed"
+   }
+  ],
+  "state": "closed",
+  "comments": 1,
+  "created_at": "2026-10-09T10:59:38Z",
+  "updated_at": "2026-10-16T07:59:38Z",
+  "closed_at": "2026-10-11T10:59:38Z",
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nAuth hook returns 500 when custom claims added.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 3,
+   "+1": 0,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 3,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20103",
+  "html_url": "https://github.com/supabase/supabase/issues/20103",
+  "number": 20103,
+  "title": "Edge function cold start over 5 seconds",
+  "user": {
+   "login": "user763",
+   "type": "User"
+  },
+  "labels": [],
+  "state": "open",
+  "comments": 0,
+  "created_at": "2026-10-08T22:18:18Z",
+  "updated_at": "2026-10-14T00:18:18Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nEdge function cold start over 5 seconds.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 2,
+   "+1": 2,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 0,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20111",
+  "html_url": "https://github.com/supabase/supabase/issues/20111",
+  "number": 20111,
+  "title": "Typo in storage CDN docs",
+  "user": {
+   "login": "user623",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "documentation",
+    "color": "ededed"
+   },
+   {
+    "name": "enhancement",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 2,
+  "created_at": "2026-10-08T09:08:19Z",
+  "updated_at": "2026-10-08T17:08:19Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nTypo in storage CDN docs.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 12,
+   "+1": 12,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 0,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20108",
+  "html_url": "https://github.com/supabase/supabase/issues/20108",
+  "number": 20108,
+  "title": "Dashboard shows wrong usage numbers",
+  "user": {
+   "login": "user831",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "studio",
+    "color": "ededed"
+   },
+   {
+    "name": "bug",
+    "color": "ededed"
+   },
+   {
+    "name": "enhancement",
+    "color": "ededed"
+   }
+  ],
+  "state": "closed",
+  "comments": 1,
+  "created_at": "2026-10-06T20:27:33Z",
+  "updated_at": "2026-10-12T19:27:33Z",
+  "closed_at": "2026-10-08T20:27:33Z",
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nDashboard shows wrong usage numbers.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 1,
+   "+1": 0,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 1,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20098",
+  "html_url": "https://github.com/supabase/supabase/issues/20098",
+  "number": 20098,
+  "title": "Phone OTP not delivered for +44 numbers",
+  "user": {
+   "login": "user601",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "auth",
+    "color": "ededed"
+   },
+   {
+    "name": "question",
+    "color": "ededed"
+   },
+   {
+    "name": "enhancement",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 1,
+  "created_at": "2026-10-06T15:30:54Z",
+  "updated_at": "2026-10-11T02:30:54Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nPhone OTP not delivered for +44 numbers.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 5,
+   "+1": 2,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 3,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20110",
+  "html_url": "https://github.com/supabase/supabase/issues/20110",
+  "number": 20110,
+  "title": "Typo in storage CDN docs",
+  "user": {
+   "login": "user865",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "documentation",
+    "color": "ededed"
+   },
+   {
+    "name": "needs-triage",
+    "color": "ededed"
+   }
+  ],
+  "state": "closed",
+  "comments": 9,
+  "created_at": "2026-10-06T06:10:33Z",
+  "updated_at": "2026-10-10T05:10:33Z",
+  "closed_at": "2026-10-08T06:10:33Z",
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nTypo in storage CDN docs.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 1,
+   "+1": 0,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 1,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20101",
+  "html_url": "https://github.com/supabase/supabase/issues/20101",
+  "number": 20101,
+  "title": "Presence state out of sync after reconnect",
+  "user": {
+   "login": "user600",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "realtime",
+    "color": "ededed"
+   },
+   {
+    "name": "needs-triage",
+    "color": "ededed"
+   }
+  ],
+  "state": "closed",
+  "comments": 1,
+  "created_at": "2026-10-05T14:43:55Z",
+  "updated_at": "2026-10-08T02:43:55Z",
+  "closed_at": "2026-10-07T14:43:55Z",
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nPresence state out of sync after reconnect.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 12,
+   "+1": 12,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 0,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20102",
+  "html_url": "https://github.com/supabase/supabase/issues/20102",
+  "number": 20102,
+  "title": "Image transformation returns blank image",
+  "user": {
+   "login": "user134",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "storage",
+    "color": "ededed"
+   },
+   {
+    "name": "needs-triage",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 0,
+  "created_at": "2026-10-05T00:49:33Z",
+  "updated_at": "2026-10-08T20:49:33Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nImage transformation returns blank image.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 0,
+   "+1": 0,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 0,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20085",
+  "html_url": "https://github.com/supabase/supabase/issues/20085",
+  "number": 20085,
+  "title": "Upload fails with 413 for files over 50MB",
+  "user": {
+   "login": "user764",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "storage",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 0,
+  "created_at": "2026-10-04T13:34:56Z",
+  "updated_at": "2026-10-09T05:34:56Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nUpload fails with 413 for files over 50MB.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 0,
+   "+1": 0,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 0,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20087",
+  "html_url": "https://github.com/supabase/supabase/issues/20087",
+  "number": 20087,
+  "title": "CORS preflight fails for edge function",
+  "user": {
+   "login": "user509",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "edge-functions",
+    "color": "ededed"
+   },
+   {
+    "name": "needs-triage",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 9,
+  "created_at": "2026-10-04T10:42:48Z",
+  "updated_at": "2026-10-05T23:42:48Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nCORS preflight fails for edge function.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 1,
+   "+1": 1,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 0,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20083",
+  "html_url": "https://github.com/supabase/supabase/issues/20083",
+  "number": 20083,
+  "title": "Auth hook returns 500 when custom claims added",
+  "user": {
+   "login": "user15",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "auth",
+    "color": "ededed"
+   },
+   {
+    "name": "bug",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 1,
+  "created_at": "2026-10-04T02:18:10Z",
+  "updated_at": "2026-10-08T11:18:10Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nAuth hook returns 500 when custom claims added.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 5,
+   "+1": 2,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 3,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20097",
+  "html_url": "https://github.com/supabase/supabase/issues/20097",
+  "number": 20097,
+  "title": "Typo in storage CDN docs",
+  "user": {
+   "login": "user504",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "documentation",
+    "color": "ededed"
+   },
+   {
+    "name": "enhancement",
+    "color": "ededed"
+   }
+  ],
+  "state": "closed",
+  "comments": 0,
+  "created_at": "2026-10-03T15:13:39Z",
+  "updated_at": "2026-10-04T16:13:39Z",
+  "closed_at": "2026-10-05T15:13:39Z",
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nTypo in storage CDN docs.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 1,
+   "+1": 0,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 1,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20088",
+  "html_url": "https://github.com/supabase/supabase/issues/20088",
+  "number": 20088,
+  "title": "Local studio cannot connect after upgrade",
+  "user": {
+   "login": "user75",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "cli",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 4,
+  "created_at": "2026-10-03T13:51:34Z",
+  "updated_at": "2026-10-07T06:51:34Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nLocal studio cannot connect after upgrade.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 0,
+   "+1": 0,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 0,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20093",
+  "html_url": "https://github.com/supabase/supabase/issues/20093",
+  "number": 20093,
+  "title": "Dashboard shows wrong usage numbers",
+  "user": {
+   "login": "user764",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "studio",
+    "color": "ededed"
+   },
+   {
+    "name": "needs-triage",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 2,
+  "created_at": "2026-10-02T10:33:49Z",
+  "updated_at": "2026-10-03T16:33:49Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nDashboard shows wrong usage numbers.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 2,
+   "+1": 1,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 1,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20092",
+  "html_url": "https://github.com/supabase/supabase/issues/20092",
+  "number": 20092,
+  "title": "Generated types miss view columns",
+  "user": {
+   "login": "user334",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "database",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 4,
+  "created_at": "2026-10-01T17:58:59Z",
+  "updated_at": "2026-10-03T14:58:59Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nGenerated types miss view columns.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 1,
+   "+1": 0,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 1,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20089",
+  "html_url": "https://github.com/supabase/supabase/issues/20089",
+  "number": 20089,
+  "title": "supabase link errors with invalid project ref",
+  "user": {
+   "login": "user109",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "cli",
+    "color": "ededed"
+   },
+   {
+    "name": "enhancement",
+    "color": "ededed"
+   }
+  ],
+  "state": "closed",
+  "comments": 1,
+  "created_at": "2026-10-01T15:08:05Z",
+  "updated_at": "2026-10-05T17:08:05Z",
+  "closed_at": "2026-10-03T15:08:05Z",
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nsupabase link errors with invalid project ref.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 4,
+   "+1": 1,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 3,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20090",
+  "html_url": "https://github.com/supabase/supabase/issues/20090",
+  "number": 20090,
+  "title": "Connection pooler timeout under 100 clients",
+  "user": {
+   "login": "user579",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "database",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 0,
+  "created_at": "2026-10-01T14:10:44Z",
+  "updated_at": "2026-10-08T02:10:44Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nConnection pooler timeout under 100 clients.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 0,
+   "+1": 0,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 0,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20091",
+  "html_url": "https://github.com/supabase/supabase/issues/20091",
+  "number": 20091,
+  "title": "pg_cron job runs twice after restart",
+  "user": {
+   "login": "user643",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "database",
+    "color": "ededed"
+   },
+   {
+    "name": "needs-triage",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 0,
+  "created_at": "2026-10-01T11:21:36Z",
+  "updated_at": "2026-10-08T04:21:36Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\npg_cron job runs twice after restart.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 5,
+   "+1": 5,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 0,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20095",
+  "html_url": "https://github.com/supabase/supabase/issues/20095",
+  "number": 20095,
+  "title": "SQL editor loses query on tab switch",
+  "user": {
+   "login": "user691",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "studio",
+    "color": "ededed"
+   },
+   {
+    "name": "question",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 1,
+  "created_at": "2026-09-29T11:59:52Z",
+  "updated_at": "2026-10-04T12:59:52Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nSQL editor loses query on tab switch.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 0,
+   "+1": 0,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 0,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20096",
+  "html_url": "https://github.com/supabase/supabase/issues/20096",
+  "number": 20096,
+  "title": "fix: sql editor loses query on tab switch",
+  "user": {
+   "login": "user937",
+   "type": "User"
+  },
+  "labels": [],
+  "state": "closed",
+  "comments": 9,
+  "created_at": "2026-09-29T11:59:52Z",
+  "updated_at": "2026-10-01T20:59:52Z",
+  "closed_at": "2026-10-01T11:59:52Z",
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nfix: sql editor loses query on tab switch.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 3,
+   "+1": 2,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 1,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  },
+  "pull_request": {
+   "url": "https://api.github.com/repos/supabase/supabase/pulls/20096"
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20086",
+  "html_url": "https://github.com/supabase/supabase/issues/20086",
+  "number": 20086,
+  "title": "Resumable upload stalls at 99%",
+  "user": {
+   "login": "user300",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "storage",
+    "color": "ededed"
+   },
+   {
+    "name": "question",
+    "color": "ededed"
+   }
+  ],
+  "state": "closed",
+  "comments": 2,
+  "created_at": "2026-09-29T05:16:29Z",
+  "updated_at": "2026-10-03T05:16:29Z",
+  "closed_at": "2026-10-01T05:16:29Z",
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nResumable upload stalls at 99%.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 12,
+   "+1": 12,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 0,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20094",
+  "html_url": "https://github.com/supabase/supabase/issues/20094",
+  "number": 20094,
+  "title": "Table editor freezes on large JSON column",
+  "user": {
+   "login": "user809",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "studio",
+    "color": "ededed"
+   },
+   {
+    "name": "enhancement",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 4,
+  "created_at": "2026-09-28T21:55:57Z",
+  "updated_at": "2026-09-29T01:55:57Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nTable editor freezes on large JSON column.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 0,
+   "+1": 0,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 0,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20084",
+  "html_url": "https://github.com/supabase/supabase/issues/20084",
+  "number": 20084,
+  "title": "Broadcast messages dropped under load",
+  "user": {
+   "login": "user872",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "realtime",
+    "color": "ededed"
+   },
+   {
+    "name": "question",
+    "color": "ededed"
+   }
+  ],
+  "state": "closed",
+  "comments": 9,
+  "created_at": "2026-09-28T21:47:43Z",
+  "updated_at": "2026-10-02T23:47:43Z",
+  "closed_at": "2026-09-30T21:47:43Z",
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nBroadcast messages dropped under load.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 1,
+   "+1": 0,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 1,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20071",
+  "html_url": "https://github.com/supabase/supabase/issues/20071",
+  "number": 20071,
+  "title": "Image transformation returns blank image",
+  "user": {
+   "login": "user448",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "storage",
+    "color": "ededed"
+   },
+   {
+    "name": "bug",
+    "color": "ededed"
+   },
+   {
+    "name": "needs-triage",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 0,
+  "created_at": "2026-09-27T21:47:36Z",
+  "updated_at": "2026-10-04T07:47:36Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nImage transformation returns blank image.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 3,
+   "+1": 0,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 3,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20072",
+  "html_url": "https://github.com/supabase/supabase/issues/20072",
+  "number": 20072,
+  "title": "fix: image transformation returns blank image",
+  "user": {
+   "login": "user618",
+   "type": "User"
+  },
+  "labels": [],
+  "state": "closed",
+  "comments": 2,
+  "created_at": "2026-09-27T21:47:36Z",
+  "updated_at": "2026-09-28T04:47:36Z",
+  "closed_at": "2026-09-29T21:47:36Z",
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nfix: image transformation returns blank image.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 2,
+   "+1": 1,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 1,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  },
+  "pull_request": {
+   "url": "https://api.github.com/repos/supabase/supabase/pulls/20072"
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20078",
+  "html_url": "https://github.com/supabase/supabase/issues/20078",
+  "number": 20078,
+  "title": "Generated types miss view columns",
+  "user": {
+   "login": "user969",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "database",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 0,
+  "created_at": "2026-09-27T16:51:17Z",
+  "updated_at": "2026-10-04T14:51:17Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nGenerated types miss view columns.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 3,
+   "+1": 0,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 3,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20077",
+  "html_url": "https://github.com/supabase/supabase/issues/20077",
+  "number": 20077,
+  "title": "pg_cron job runs twice after restart",
+  "user": {
+   "login": "user726",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "database",
+    "color": "ededed"
+   },
+   {
+    "name": "enhancement",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 1,
+  "created_at": "2026-09-27T15:58:18Z",
+  "updated_at": "2026-09-30T23:58:18Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\npg_cron job runs twice after restart.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 0,
+   "+1": 0,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 0,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20080",
+  "html_url": "https://github.com/supabase/supabase/issues/20080",
+  "number": 20080,
+  "title": "Dashboard shows wrong usage numbers",
+  "user": {
+   "login": "user956",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "studio",
+    "color": "ededed"
+   },
+   {
+    "name": "bug",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 9,
+  "created_at": "2026-09-27T04:02:09Z",
+  "updated_at": "2026-09-30T01:02:09Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nDashboard shows wrong usage numbers.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 2,
+   "+1": 1,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 1,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20074",
+  "html_url": "https://github.com/supabase/supabase/issues/20074",
+  "number": 20074,
+  "title": "Image transformation returns blank image",
+  "user": {
+   "login": "user356",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "storage",
+    "color": "ededed"
+   },
+   {
+    "name": "enhancement",
+    "color": "ededed"
+   }
+  ],
+  "state": "open",
+  "comments": 4,
+  "created_at": "2026-09-26T08:48:31Z",
+  "updated_at": "2026-09-29T22:48:31Z",
+  "closed_at": null,
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nImage transformation returns blank image.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 3,
+   "+1": 0,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 3,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20076",
+  "html_url": "https://github.com/supabase/supabase/issues/20076",
+  "number": 20076,
+  "title": "supabase start fails on Apple silicon",
+  "user": {
+   "login": "user640",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "cli",
+    "color": "ededed"
+   },
+   {
+    "name": "enhancement",
+    "color": "ededed"
+   },
+   {
+    "name": "bug",
+    "color": "ededed"
+   }
+  ],
+  "state": "closed",
+  "comments": 4,
+  "created_at": "2026-09-25T21:43:28Z",
+  "updated_at": "2026-10-04T00:43:28Z",
+  "closed_at": "2026-09-27T21:43:28Z",
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nsupabase start fails on Apple silicon.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 15,
+   "+1": 12,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 3,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ },
+ {
+  "url": "https://api.github.com/repos/supabase/supabase/issues/20081",
+  "html_url": "https://github.com/supabase/supabase/issues/20081",
+  "number": 20081,
+  "title": "Typo in storage CDN docs",
+  "user": {
+   "login": "user466",
+   "type": "User"
+  },
+  "labels": [
+   {
+    "name": "documentation",
+    "color": "ededed"
+   },
+   {
+    "name": "needs-triage",
+    "color": "ededed"
+   },
+   {
+    "name": "enhancement",
+    "color": "ededed"
+   }
+  ],
+  "state": "closed",
+  "comments": 2,
+  "created_at": "2026-09-24T14:57:38Z",
+  "updated_at": "2026-09-26T15:57:38Z",
+  "closed_at": "2026-09-26T14:57:38Z",
+  "author_association": "NONE",
+  "body": "**Describe the bug**\nTypo in storage CDN docs.\n\n**To Reproduce**\n1. ...\n\n**Expected behavior**\nIt works.\n\n**System information**\n- OS: macOS",
+  "reactions": {
+   "total_count": 5,
+   "+1": 2,
+   "-1": 0,
+   "laugh": 0,
+   "hooray": 0,
+   "confused": 3,
+   "heart": 0,
+   "rocket": 0,
+   "eyes": 0
+  }
+ }
+]
