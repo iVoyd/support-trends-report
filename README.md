@@ -180,6 +180,35 @@ Tests (no network, no API key):
 ruff check . && pytest
 ```
 
+### Weekly run with Prefect (optional)
+
+The three weekly commands can also run as one [Prefect](https://www.prefect.io) flow
+(`src/trends/flow.py`), with a schedule, retries and a run history:
+
+```
+fetch (3 retries) ──► theme (1 retry) ──► report (no retry; fails if its numbers don't match the DB)
+```
+
+- **fetch** is retried because GitHub's search API rate-limits and times out; it is
+  resumable, so a retry only re-reads weeks that didn't finish.
+- **theme** is retried once; it only themes issues that are still unthemed.
+- **report** is not retried. If `check-report` finds a number that doesn't match the
+  database, the run fails instead of publishing a wrong report.
+
+Each task calls the same functions as the CLI commands, so the flow adds scheduling and
+retries, not new logic.
+
+```bash
+pip install -e ".[prefect]"
+python -m trends.flow                          # run once (last full week)
+python -m trends.flow --no-llm                 # run once, no recommendation calls
+prefect server start                           # optional: the UI at http://127.0.0.1:4200
+python -m trends.flow --serve "15 7 * * 1"     # Mondays 07:15 UTC, until stopped
+```
+
+`tests/test_flow.py` checks the order of the steps, that a failed fetch is retried, and
+that a failed report check fails the run.
+
 ## Sample report
 
 Three real reports are committed, each as Markdown and HTML, all on themes.yaml v2:
