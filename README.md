@@ -114,7 +114,7 @@ requests a minute without `GITHUB_TOKEN` and 30 with one; fetch waits out a shor
 by itself, but a token makes it faster:
 
 ```bash
-set -a; . ~/.config/job_radar/env; set +a
+export ANTHROPIC_API_KEY="sk-ant-..."   # or source your own env file; never commit it
 ```
 
 ```bash
